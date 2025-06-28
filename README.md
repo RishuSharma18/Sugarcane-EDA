@@ -78,7 +78,7 @@ This repository is created purely for educational and non-commercial purposes, a
 
 ---
 
-## 👨‍💻 Created By
+## Created By
 
-**Rishu Sharma**  
+[**Rishu Sharma**](https://github.com/RishuSharma18)  
 B.Tech CSE (Data Science) Student
