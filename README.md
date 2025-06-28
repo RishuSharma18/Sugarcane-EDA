@@ -1,4 +1,4 @@
-# 🌱 Global Sugarcane Production - Exploratory Data Analysis (EDA)
+# Global Sugarcane Production - Exploratory Data Analysis (EDA)
 
 This project dives into a detailed **Exploratory Data Analysis (EDA)** of sugarcane production across different countries and continents.  
 The aim is to extract meaningful insights from raw data — uncovering patterns in yield, acreage, and production volume.
