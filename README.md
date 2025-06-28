@@ -69,7 +69,7 @@ _This interactive map shows country-wise sugarcane production using color-coded 
 
 This project has been developed as part of my learning journey in Data Science and Exploratory Data Analysis.
 
-However, some ideas, analysis approaches, and visual patterns have been **partially inspired** by:
+However, some ideas have been **partially inspired** by:
 - 📘 [GeeksforGeeks Data Science & ML Course](https://www.geeksforgeeks.org/)
 
 External ideas were reinterpreted and implemented in my own style and understanding.  
