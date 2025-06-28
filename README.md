@@ -48,14 +48,13 @@ The goal is to explore:
   - Distribution shapes
   - Correlation matrix
   - Warnings and duplicates
-  - A full interactive profiling report is available here 👉 [Open Report](./Profiling_report.html)
-
-It includes descriptive stats, correlations, missing values heatmap, and more.
     
 ### 🌎 Choropleth Map
 - Created global map showing country-wise production in color-coded intensity.
 ![Choropleth Map Preview](./Choropleth_Map_Global_Sugarcane_Production.png)
 _This interactive map shows country-wise sugarcane production using color-coded intensities._
+
+**Note:** Due to GitHub's static rendering, interactive visualizations (e.g. Choropleth Map & Pandas Profiling) may not be displayed.  
 
 
 ## 📁 Files Included
