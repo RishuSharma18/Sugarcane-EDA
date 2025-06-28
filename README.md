@@ -50,7 +50,10 @@ The goal is to explore:
   - Warnings and duplicates
     
 ### 🌎 Choropleth Map
-- Created global map showing country-wise production in color-coded intensity
+- Created global map showing country-wise production in color-coded intensity.
+![Choropleth Map Preview](./choropleth_preview.png)
+_This interactive map shows country-wise sugarcane production using color-coded intensities._
+
 
 ## 📁 Files Included
 
